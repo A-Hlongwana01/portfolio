@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+#red{
+    background-color: red;
+    /* height: auto; */
+}
+
+#blue{
+    background-color: blue;
+    /* height: 600px; */
+    /* background-image: url(images/image.jpg); */
+    
+}
+
