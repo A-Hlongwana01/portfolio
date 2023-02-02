@@ -6,14 +6,21 @@
 
 
 #red{
-    background-color: red;
+    background-color: green;
     /* height: auto; */
 }
 
 #blue{
-    background-color: blue;
+    /* background-color: blue; */
     /* height: 600px; */
     /* background-image: url(images/image.jpg); */
     
 }
+
+img {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+  }
 
